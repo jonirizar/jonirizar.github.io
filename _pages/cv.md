@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
+cv_pdf: CV_Jon Irizar Amuchastegui (03.12.2024).pdf # you can also use external links here
 description: You can find my CV here
 toc:
   sidebar: left
