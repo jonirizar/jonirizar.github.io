@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Welcome!
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a PhD student in Financial Economics at Copenhagen Business School. My research focuses on the applications of topics in Behavioral Finance to the broader areas of Household Finance and Asset Pricing.
+I am a PhD student in Financial Economics at Copenhagen Business School. My research focuses on the applications of topics in Behavioral Finance to the broader areas of Household Finance and Asset Pricing.
