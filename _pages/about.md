@@ -7,7 +7,7 @@ subtitle: Welcome!
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>A5.11</p>
     <p>Solbjerg Plads 3</p>
