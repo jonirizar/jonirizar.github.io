@@ -10,6 +10,6 @@ nav_order: 6
 ## Copenhagen Business School
 
 - Teaching Assistant, Undergraduate, Corporate Finance, Spring 2024
-  &nbsp;&nbsp;&nbsp;&nbsp;Assisted Professor Ulf Nielsson
+  > Assisted Professor Ulf Nielsson
 - Teaching Assistant, Postgraduate, Corporate Finance, Fall 2024
-  &nbsp;&nbsp;&nbsp;&nbsp;Assisted Professor Kasper Meisner Nielsen
+  > Assisted Professor Kasper Meisner Nielsen
