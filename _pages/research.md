@@ -9,6 +9,7 @@ nav_order: 2
 
 <!-- _pages/research.md -->
 
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
@@ -18,3 +19,7 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+## Work In Progress
+
+- Revisiting Boys Will Be Boys (2024), Copenhagen Business School
