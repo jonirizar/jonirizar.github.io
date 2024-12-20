@@ -7,16 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-## Graduate
+## Copenhagen Business School
 
-### Corporate Finance
-- Semester: Fall 2024
-- Cohort: M.Sc. in Advanced Economics and Finance (cand. oecon)
-- University: Copenhagen Business School
-
-## Undergraduate
-
-### Corporate Finance
-- Semester: Spring 2024
-- Cohort: B.Sc. in International Business
-- University: Copenhagen Business School
+- Teaching Assistant, Undergraduate, Corporate Finance, Spring 2024
+  > Assisted Professor Ulf Nielsson
+- Teaching Assistant, Postgraduate, Corporate Finance, Fall 2024
+  > Assisted Professor Kasper Meisner Nielsen
