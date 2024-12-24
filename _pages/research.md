@@ -22,4 +22,4 @@ nav_order: 2
 
 ## Work In Progress
 
-- Revisiting Boys Will Be Boys (2024), Copenhagen Business School
+- Revisiting Boys Will Be Boys: Gender and Trading Performance (2024), Copenhagen Business School
