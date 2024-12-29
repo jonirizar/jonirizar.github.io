@@ -9,5 +9,3 @@ description: You can find my CV here
 toc:
   sidebar: left
 ---
-
-<iframe src="jonirizar.github.io/_pages/cv.md" width="100%" height="800px"></iframe>
