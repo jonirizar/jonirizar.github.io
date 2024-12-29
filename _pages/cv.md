@@ -9,3 +9,6 @@ description: You can find my CV here
 toc:
   sidebar: left
 ---
+
+
+[View PDF](cv_jonirizaramuchastegui.pdf)
