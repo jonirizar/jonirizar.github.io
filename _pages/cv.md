@@ -11,4 +11,7 @@ toc:
 ---
 
 
-[View PDF](cv_jonirizaramuchastegui.pdf)
+<iframe src="assets/pdf/cv_jonirizaramuchastegui.pdf" width="100%" height="600px">
+    Your browser does not support PDFs. Please download it here:
+    <a href="assets/pdf/cv_jonirizaramuchastegui.pdf">Download CV</a>
+</iframe>
