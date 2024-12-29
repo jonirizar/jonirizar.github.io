@@ -639,3 +639,11 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Added by me
+# -----------------------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
