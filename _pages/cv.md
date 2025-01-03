@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-<iframe src="/assets/pdf/cv_jonirizaramuchastegui.pdf" width="100%" height="600px">
+<iframe src="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="/assets/pdf/cv_jonirizaramuchastegui.pdf">Download PDF</a>
+    <a href="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf">Download PDF</a>
 </iframe>
