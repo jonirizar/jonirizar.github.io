@@ -1,13 +1,12 @@
 ---
-layout: cv
+layout: page
+title: "CV"
 permalink: /cv/
-title: cv
 nav: true
 nav_order: 5
-cv_pdf: cv_jonirizaramuchastegui.pdf # you can also use external links here
-description: You can find my CV here
-toc:
-  sidebar: left
+cv_pdf: assets/pdf/cv_jonirizaramuchastegui.pdf
+description: "You can find my CV here"
+toc: sidebar
 ---
 
 <iframe src="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf" width="100%" height="600px">
