@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: "cv"
 permalink: /cv/
 nav: true
@@ -9,7 +9,27 @@ description: "You can find my CV here"
 toc: sidebar
 ---
 
-<iframe src="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf" width="100%" height="600px">
+<style>
+  .responsive-iframe {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9 aspect ratio */
+  }
+  .responsive-iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+<div class="responsive-iframe">
+  <iframe src="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf" frameborder="0">
     This browser does not support PDFs. Please download the PDF to view it: 
     <a href="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf">Download PDF</a>
-</iframe>
+  </iframe>
+</div>
+
+<p>If you are having trouble viewing the PDF, you can download it directly <a href="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf">here</a>.</p>
+
