@@ -26,7 +26,12 @@ toc: sidebar
   }
   @media (max-width: 768px) {
     .responsive-iframe {
-      padding-top: 75%; /* 4:3 aspect ratio for mobile devices */
+      padding-top: 100%; /* 1:1 aspect ratio for mobile devices */
+    }
+  }
+  @media (max-width: 480px) {
+    .responsive-iframe {
+      padding-top: 150%; /* Adjust as needed for smaller devices */
     }
   }
 </style>
@@ -39,3 +44,4 @@ toc: sidebar
 </div>
 
 <p>If you are having trouble viewing the PDF, you can download it directly <a href="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf">here</a>.</p>
+
