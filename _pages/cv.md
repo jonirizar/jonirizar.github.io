@@ -44,4 +44,3 @@ toc: sidebar
 </div>
 
 <p>If you are having trouble viewing the PDF, you can download it directly <a href="{{ site.baseurl }}/assets/pdf/cv_jonirizaramuchastegui.pdf">here</a>.</p>
-
