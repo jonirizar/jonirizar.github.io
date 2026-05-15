@@ -10,20 +10,14 @@ toc: sidebar
 ---
 
 <style>
-  .cv-pages {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1.25rem;
-    margin: 1rem 0 1.5rem;
-  }
-  .cv-pages img {
+  .cv-embed {
     display: block;
     width: 100%;
-    max-width: 850px;
-    height: auto;
+    max-width: 900px;
+    height: 90vh;
+    margin: 1rem auto 1.25rem;
+    border: 1px solid var(--global-divider-color, #e0e0e0);
     border-radius: 4px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
     background: #fff;
   }
   .cv-actions {
@@ -41,26 +35,23 @@ toc: sidebar
     border-radius: 6px;
     font-weight: 500;
     text-decoration: none;
-    border: 1px solid var(--global-theme-color, #b509ac);
-    color: var(--global-theme-color, #b509ac);
+    border: 1px solid var(--global-theme-color);
+    color: var(--global-theme-color);
     background: transparent;
     transition: background 0.15s ease, color 0.15s ease;
   }
   .cv-actions .cv-btn.cv-btn-primary {
-    background: var(--global-theme-color, #b509ac);
+    background: var(--global-theme-color);
     color: #fff;
   }
   .cv-actions .cv-btn:hover {
-    background: var(--global-theme-color, #b509ac);
+    background: var(--global-theme-color);
     color: #fff;
     text-decoration: none;
   }
 </style>
 
-<div class="cv-pages">
-  <img src="{{ '/assets/img/cv_page_1.png' | relative_url }}" alt="CV page 1" loading="eager" />
-  <img src="{{ '/assets/img/cv_page_2.png' | relative_url }}" alt="CV page 2" loading="lazy" />
-</div>
+<embed class="cv-embed" src="{{ '/assets/pdf/cv_jonirizaramuchastegui.pdf' | relative_url }}" type="application/pdf" />
 
 <div class="cv-actions">
   <a class="cv-btn cv-btn-primary" href="{{ '/assets/pdf/cv_jonirizaramuchastegui.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF</a>
