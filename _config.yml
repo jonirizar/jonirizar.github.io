@@ -8,10 +8,10 @@ middle_name:
 last_name: Irizar Amuchastegui
 email: jam.fi@cbs.dk
 description:
-footer_text:
+footer_text: All rights reserved.
 keywords: finance, phd, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jonirizar.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
