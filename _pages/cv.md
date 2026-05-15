@@ -51,9 +51,9 @@ toc: sidebar
   }
 </style>
 
-<embed class="cv-embed" src="{{ '/assets/pdf/cv_jonirizaramuchastegui.pdf' | relative_url }}" type="application/pdf" />
-
 <div class="cv-actions">
   <a class="cv-btn cv-btn-primary" href="{{ '/assets/pdf/cv_jonirizaramuchastegui.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF</a>
   <a class="cv-btn" href="{{ '/assets/pdf/cv_jonirizaramuchastegui.pdf' | relative_url }}" download>Download PDF</a>
 </div>
+
+<embed class="cv-embed" src="{{ '/assets/pdf/cv_jonirizaramuchastegui.pdf' | relative_url }}" type="application/pdf" />
