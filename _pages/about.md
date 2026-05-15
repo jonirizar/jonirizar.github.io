@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A5.11</p>
+    <p>D4.17</p>
     <p>Solbjerg Plads 3</p>
     <p>2000 Frederiksberg, Denmark</p>
 
