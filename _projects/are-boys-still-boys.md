@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Are boys still boys?"
-description: "Working paper. Draft available upon request."
+description: "With Steffen Andersen, Kasper Meisner Nielsen, and Abhiroop Mukherjee. Working paper. Draft available upon request."
 img:
 importance: 1
 category: working papers
 ---
+
+**Coauthors:** Steffen Andersen, Kasper Meisner Nielsen, and Abhiroop Mukherjee.
 
 **Status:** Working paper. Draft available upon request.
 
